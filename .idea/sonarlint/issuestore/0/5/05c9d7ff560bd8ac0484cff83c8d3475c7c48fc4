@@ -1,0 +1,10 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ïÇÎúÿÿÿÿ
+q	java:S116
+"\Rename this field "ConsumoEnergetico" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶­õ‘
+t
+java:S3008"YRename this field "ColorConstante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î—¦õøÿÿÿÿ
+s
+java:S3008"XRename this field "PesoConstante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“–éøÿÿÿÿ
+r	java:S127;"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğğÒëûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠüÄµ

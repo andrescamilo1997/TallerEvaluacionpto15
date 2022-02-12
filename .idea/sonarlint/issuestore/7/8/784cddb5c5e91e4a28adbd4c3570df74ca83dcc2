@@ -1,0 +1,12 @@
+
+c	java:S116"NRename this field "TDT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï›‡
+m
+java:S3008"WRename this field "TDTConstante" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ™ºò
+W
+java:S1161"":Add the "@Override" annotation above this method signature(ğ©¿8ÒÈšâî/
+K
+java:S1121'".Extract the assignment out of this expression.(£³¢Ö8ÒÈšâî/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÏÃ÷ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÏÃ÷ùÿÿÿÿ
+T
+java:S2589'"7Remove this expression which always evaluates to "true"(£³¢Ö8ÚÈšâî/
