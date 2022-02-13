@@ -7,11 +7,13 @@ J
 src/main/java/Persona.java,9\a\9ad8a1d2fbd1291b9be7d962ebd35e3877ad624d
 L
 src/main/java/Principal.java,e\5\e558372c9fe891b5057755df26e41c9fa9ebcd5c
-Z
-*pto17/src/main/java/Electrodomesticos.java,0\5\05c9d7ff560bd8ac0484cff83c8d3475c7c48fc4
+B
+pto18/build.gradle,2\0\2053658b632a5c59d3857ebe7281a04feae175e0
 Q
 !pto17/src/main/java/Lavadora.java,4\c\4cc6e3690fad62d90c8bf23dc7c901f3edaaf01d
 R
 "pto17/src/main/java/Televisor.java,7\8\784cddb5c5e91e4a28adbd4c3570df74ca83dcc2
+Z
+*pto17/src/main/java/Electrodomesticos.java,0\5\05c9d7ff560bd8ac0484cff83c8d3475c7c48fc4
 R
 "pto17/src/main/java/Principal.java,c\a\ca39706a4fe2f7fc3b509a814f9807d408cad872
